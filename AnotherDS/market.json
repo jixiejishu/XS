@@ -1,0 +1,66 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "url": "",
+        "icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg"
+      }
+    ]
+  },
+  {
+    "name": "当前版本",
+    "list": [
+      {
+        "name": "单线路",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png"
+      },
+      {
+        "name": "多线路",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/.版本.png"
+      }
+    ]
+  },
+  {
+    "name": "检查更新",
+    "list": [
+      {
+        "name": "单线路",
+        "url": "https://gitee.com/jixiejishu/another-d/raw/master/单线路.zip",
+        "icon": "",
+        "version": "3.26"
+      },
+      {
+        "name": "多线路",
+        "url": "https://gitee.com/jixiejishu/another-d/raw/master/多线路.zip",
+        "icon": "",
+        "version": "3.26"
+      }
+    ]
+  },
+  {
+    "name": "Allinone",
+    "list": [
+      {
+        "name": "当前版本",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBox/.allinone.png",
+        "version": ""
+      },
+      {
+        "name": "稳定版 32位",
+        "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742485360065/allinone.zip",
+        "icon": "",
+        "version": "4.0"
+      },
+      {
+        "name": "稳定版 64位",
+        "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742485321173/allinone.zip",
+        "icon": "",
+        "version": "4.0"
+      }
+    ]
+  }
+]

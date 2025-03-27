@@ -1142,7 +1142,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://www.now61.com/f/o5wdHj/market.json"
+            "ext": "./market.json"
         },
         {
             "key": "官方版本信息",

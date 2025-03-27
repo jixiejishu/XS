@@ -1,0 +1,36 @@
+{
+    "urls": [
+        {
+            "url": "./movie.json",
+            "name": "影视"
+        },
+        {
+            "url": "./anime.json",
+            "name": "动漫"
+        },
+        {
+            "url": "./other.json",
+            "name": "文艺"
+        },
+        {
+            "url": "./sport.json",
+            "name": "体育"
+        },
+        {
+            "url": "./education.json",
+            "name": "教育"
+        },
+        {
+            "url": "./webcast.json",
+            "name": "直播"
+        },
+        {
+            "url": "./magnet.json",
+            "name": "磁力"
+        },
+        {
+            "url": "./cloud.json",
+            "name": "云盘"
+        }
+    ]
+}

@@ -28,15 +28,15 @@
     "list": [
       {
         "name": "单线路",
-        "url": "https://gitee.com/jixiejishu/another-d/raw/master/单线路.zip",
+        "url": "https://gitee.com/jixiejishu/another-d/raw/master/local/单线路.zip",
         "icon": "",
-        "version": "3.26"
+        "version": "3.31.3"
       },
       {
         "name": "多线路",
-        "url": "https://gitee.com/jixiejishu/another-d/raw/master/多线路.zip",
+        "url": "https://gitee.com/jixiejishu/another-d/raw/master/local/多线路.zip",
         "icon": "",
-        "version": "3.26"
+        "version": "3.31.3"
       }
     ]
   },

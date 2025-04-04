@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/jixiejishu/XS/raw/main/model/spider.jar;md5;6bcb3de5f0d7c9b3d4f19cfe9a314ab2",
+    "spider": "https://gitee.com/jixiejishu/another-d/raw/master/spider.png;md5;6bcb3de5f0d7c9b3d4f19cfe9a314ab2",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "sites": [
         {
@@ -442,18 +442,6 @@
         }
     ],
     "lives": [
-        {
-            "name": "肥羊直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "https://gitee.com/jixiejishu/XS/raw/main/model/live.m3u",
-            "timeout": 10,
-            "ua": "okhttp/3.15",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
         {
             "name": "AI直播",
             "type": 0,

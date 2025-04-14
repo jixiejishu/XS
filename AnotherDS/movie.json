@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744007465626/spider.jar;md5;562468833fd001bebfb3079607046cd0",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744350360006/spider.jar;md5;e1524c21d5fdc449006dedf2b3870990",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "sites": [
     {
@@ -37,61 +37,67 @@
     },
     {
       "key": "热播影视",
-      "name": "热播｜弹幕",
+      "name": "热播｜影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
     {
       "key": "天天影视",
-      "name": "天天｜弹幕",
+      "name": "天天｜影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
     },
     {
       "key": "浪酷影视",
-      "name": "浪酷｜弹幕",
+      "name": "浪酷｜影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
     },
     {
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
       "api": "https://gitee.com/jixiejishu/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/TXDM.js"
+      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/TXSP.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
       "api": "https://gitee.com/jixiejishu/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/YKDM.js"
+      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/YKSP.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果｜视频",
       "type": 3,
       "api": "https://gitee.com/jixiejishu/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/MGDM.js"
+      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/MGSP.js"
     },
     {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
       "type": 3,
       "api": "https://gitee.com/jixiejishu/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/AQYDM.js"
+      "ext": "https://gitee.com/jixiejishu/another-d/raw/master/movie/js/AQY.js"
     },
     {
       "key": "三六零",
@@ -1071,6 +1077,7 @@
         "欧美综艺"
       ]
     },
+
         {
             "key": "版本信息",
             "name": "版本｜信息",
@@ -1091,7 +1098,6 @@
             "indexs": 0,
             "ext": "https://9877.kstore.space/Market/market.json"
         },
-
     {
       "key": "push_agent",
       "name": "手机｜推送",

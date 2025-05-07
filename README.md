@@ -9,11 +9,11 @@ https://www.now61.com/f/xEL9I0/api.json
 
 ## 主接口    
 ### 未加速:    
-https://raw.githubusercontent.com/jixiejishu/XS/refs/heads/main/another-d/api.json 
+https://raw.githubusercontent.com/jixiejishu/XS/refs/heads/main/another-d/api.jpgx 
    
 
 ### jsdelivr.net加速:    
-https://cdn.jsdelivr.net/gh/jixiejishu/XS@main/another-d/api.json    
+https://cdn.jsdelivr.net/gh/jixiejishu/XS@main/another-d/api.jpgx    
    
 
 ### ghproxy加速:    
@@ -21,6 +21,6 @@ https://cdn.jsdelivr.net/gh/jixiejishu/XS@main/another-d/api.json
 目前的加速地址   
 https://ghfast.top/    
 单线路    
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/XS/refs/heads/main/another-d/api.json    
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/XS/refs/heads/main/another-d/api.jpgx    
 
 
